@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.appointmentlistitem {
+  padding: 10px;
+  border: 1px solid #b5b7c4;
+  border-radius: 5px;
+  background-color: transparent;
+}
+.first {
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  color: #171f46;
+  font-size: 20px;
+}
+.butt {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+.star {
+  height: 45px;
+  width: 45px;
+}
+.date {
+  color: #b5b7c4;
+  font-size: 20px;
+}
